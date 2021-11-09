@@ -1,10 +1,10 @@
-# PSG-Loc8
+# PSG-Loc8 *(Rework underway)*
 A PySimpleGUI extension module that gets the ideal locations for your windows to be.
 
 With this module, doing this:...
 ```
 # I'm using Python 3 here.
-import PySimpleGUi as sg
+import PySimpleGUI as sg
 from PSG-Loc8 import Locator
 loc8or = Locator(my_reference_window)
 
